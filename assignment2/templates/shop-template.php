@@ -9,12 +9,12 @@
 <main class="woocommerce-shop-page">
 	<?php woocommerce_content(); ?>
 </main>
-<?php get_footer()?>
+<?php get_footer() ?>
 </body>
 
 </html>
 
-	</section>
-	<?php get_footer() ?>
+
+<?php get_footer() ?>
 
 </main>

@@ -24,7 +24,7 @@
                      alt="header logo">
             </a>
             <h1 class="home-title">Gaming Nation</h1>
-            <div  id="navbarNav">
+            <div id="navbarNav">
 				<?php
 				wp_nav_menu( array(
 					'menu'           => 'main',

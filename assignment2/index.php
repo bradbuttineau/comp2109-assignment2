@@ -8,11 +8,11 @@
  *E.g., it puts together the home page when no home.php file exists.
  */
 get_header(); ?>
- <section class="general-banner">
-	 <h1><?php the_title(); ?></h1>
-	  </section>
+<section class="general-banner">
+    <h1><?php the_title(); ?></h1>
+</section>
 <section>
-	<?php the_content();?>
+	<?php the_content(); ?>
 </section>
 <?php
 get_footer(); ?>
